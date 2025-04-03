@@ -129,9 +129,9 @@ curl -X GET 'https://meu-servico-search.search.windows.net/indexes/meu-indice-pr
 
 ## Insights e Aprendizados
 
-1. **Personalização**: O Azure AI Search permite configurar analisadores de linguagem específicos (como "pt.microsoft" para português), melhorando a qualidade dos resultados para idiomas específicos.
+1. **Personalização**: O Azure AI Search permite configurar analisadores de linguagem específicos, melhorando a qualidade dos resultados para idiomas específicos.
 
-2. **Facetas**: O uso de facetas (como a categoria no exemplo) permite criar experiências de filtragem avançadas em aplicações de e-commerce.
+2. **Facetas**: O uso de facetas permite criar experiências de filtragem avançadas em aplicações de e-commerce.
 
 3. **Performance**: Para grandes volumes de dados, é importante considerar a estratégia de indexação em lotes e o uso de indexadores para fontes de dados como Azure SQL, Cosmos DB ou Blob Storage.
 
@@ -144,10 +144,10 @@ curl -X GET 'https://meu-servico-search.search.windows.net/indexes/meu-indice-pr
 3. **Aplicações Empresariais**: Busca unificada em múltiplas fontes de dados corporativos.
 4. **Bancos de Conhecimento**: Sistemas de perguntas e respostas baseados em documentos indexados.
 
-## Melhorias Futuras
+## Melhorias que Podem ser Feitas
 
-1. Integrar habilidades cognitivas para enriquecimento de dados (extração de entidades, análise de sentimentos).
-2. Implementar autocomplete/sugestões de pesquisa.
+1. Integrar habilidades cognitivas para enriquecimento de dados, como extração de entidades e análise de sentimentos.
+2. Implementar autocomplete e sugestões de pesquisa.
 3. Adicionar pontuação personalizada para priorizar certos resultados.
 4. Configurar sinônimos para melhorar a recall das buscas.
 

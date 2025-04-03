@@ -1,10 +1,10 @@
 # Azure Cognitive Search: Utilizando AI Search para Indexação e Consulta de Dados
 
-Este projeto demonstra como configurar e utilizar o Azure AI Search (anteriormente conhecido como Azure Cognitive Search) para indexar e consultar dados de forma eficiente. O Azure AI Search é um serviço de pesquisa em nuvem que fornece infraestrutura e APIs para criar experiências de pesquisa avançadas.
+Este projeto demonstra como configurar e utilizar o Azure AI Search para indexar e consultar dados de forma eficiente. O Azure AI Search é um serviço de pesquisa em nuvem que fornece infraestrutura e APIs para criar experiências de pesquisa avançadas.
 
 ## Pré-requisitos
 
-- Conta do Azure (pode criar uma [conta gratuita](https://azure.microsoft.com/free/))
+- Conta do Azure
 - Conhecimento básico de JSON e APIs REST
 
 ## Passo a Passo para Configuração
